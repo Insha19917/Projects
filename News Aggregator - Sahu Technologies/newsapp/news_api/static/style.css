@@ -1,0 +1,25 @@
+body{
+    background-color: #c2dde6;
+    font-family:Georgia, Times, 'Times New Roman', serif
+}
+button{
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+button:hover{
+    color: white;
+    background-color: #0F044C;
+}
+.card-body{
+   background-color:  #e6e9f0;
+}
+.btn{
+    background-color: #0F044C;
+    align-self: center;
+}
+.btn:hover{
+    color: black;
+    background-color: white;
+    align-self: center;
+}
